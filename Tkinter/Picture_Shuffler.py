@@ -75,3 +75,6 @@ button_forward.grid(row=1, column=2)
 status.grid(row=2, column=0, columnspan=3, sticky=W+E)
 
 root.mainloop()
+
+# this is a comment to test vi <file_name.txt> and hit "i" and start entering our new text, then we need to save the changes before we exit the "vi", this is to save and exit the file hit "Esc" and then ":wq!"
+
